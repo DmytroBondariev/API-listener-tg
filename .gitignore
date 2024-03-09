@@ -1,3 +1,7 @@
 /.venv/
 .idea
 .idea/
+alembic/
+alembic
+message_catalog.db
+/alembic.ini
